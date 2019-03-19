@@ -19,6 +19,5 @@ namespace Model
         public int? UpdateUserID { get; set; }
 
 
-
     }
 }
